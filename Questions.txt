@@ -1,0 +1,21 @@
+1. What is the distribution of the released_year for the songs in the dataset?
+
+Create a bar chart showing the number of songs released each year.
+How do the danceability percentages vary across different keys?
+
+Create a scatter plot or box plot to visualize the relationship between danceability (%) and key.
+Which songs have the highest and lowest speechiness percentages?
+
+Create a bar chart to highlight the songs with the highest and lowest speechiness percentages.
+Are there any correlations between the tempo (bpm) and energy levels for the songs?
+
+Create a scatter plot to explore the relationship between tempo and energy.
+What is the overall popularity of songs in different modes (Major/Minor)?
+
+Create a grouped bar chart to compare the number of songs in Major and Minor modes and their average valence percentages.
+How do the streams on Spotify relate to the number of times a song appears in Spotify playlists?
+
+Create a scatter plot to visualize the relationship between streams and in_spotify_playlists.
+How do the artist counts affect the number of streams on Apple Music?
+
+Create a scatter plot to analyze how the number of artists involved in a song (artist_count) influences the streams on Apple Music.
